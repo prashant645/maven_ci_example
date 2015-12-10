@@ -13,6 +13,7 @@
     <tag>HEAD</tag>
     <url>https://github.com/manojlds/maven_ci_example</url>
   </scm>
+  <!lol>
   <dependencies>
     <dependency>
       <groupId>junit</groupId>
